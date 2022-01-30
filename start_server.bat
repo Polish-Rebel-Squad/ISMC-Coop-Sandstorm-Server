@@ -1,0 +1,1 @@
+InsurgencyServer.exe Bab?Scenario=Scenario_Bab_Checkpoint_Security?MaxPlayers=8 -Port=27103 -QueryPort=27132 -Mods -log -GameStatsToken= -GSLTToken= -hostname="[PRS] EU ISMC-Coop Sandstorm Server 4" -mutators=ISMC_Casual ModDownloadTravelTo=Tell?Scenario=Scenario_Tell_Checkpoint_Security?Lighting=Day?Mutators=ISMCarmory_legacy
