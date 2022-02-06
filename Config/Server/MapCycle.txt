@@ -28,3 +28,8 @@
 (Scenario="Scenario_Citadel_Outpost"Lighting="Day")
 (Scenario="Scenario_Gap_Outpost"Lighting="Day")
 (Scenario="Scenario_Tell_Outpost"Lighting="Day")
+(Scenario="Scenario_Frost_Checkpoint_Security"Lighting="Day")
+(Scenario="Scenario_Prison_Checkpoint_Security"Lighting="Day")
+(Scenario="Scenario_Factory_Checkpoint_Security"Lighting="Day")
+(Scenario="Scenario_Coastline_Checkpoint_Security"Lighting="Day")
+(Scenario="Scenario_DistrictR_Checkpoint_Security"Lighting="Day")
