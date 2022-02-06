@@ -24,3 +24,7 @@
 (Scenario="Scenario_Revolt_Checkpoint_Security"Lighting="Day")
 (Scenario="Scenario_Station_Checkpoint_Security"Lighting="Day")
 (Scenario="Scenario_Verticality_Checkpoint_Security"Lighting="Day")
+(Scenario="Scenario_Bab_Outpost"Lighting="Day")
+(Scenario="Scenario_Citadel_Outpost"Lighting="Day")
+(Scenario="Scenario_Gap_Outpost"Lighting="Day")
+(Scenario="Scenario_Tell_Outpost"Lighting="Day")
