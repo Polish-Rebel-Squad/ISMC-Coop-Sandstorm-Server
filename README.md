@@ -10,3 +10,5 @@ https://insurgencysandstorm.mod.io/ismcr
 https://insurgencysandstorm.mod.io/insurgency-2014-map-pack
 
 https://insurgencysandstorm.mod.io/ismcmod1
+
+https://insurgencysandstorm.mod.io/printcount1
